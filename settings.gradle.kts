@@ -5,7 +5,7 @@
 rootProject.name = "qupath-scripts"
 
 // TODO: Define the QuPath version to use here (e.g. 0.5.1, 0.6.0-SNAPSHOT...)
-var qupathVersion by gradle.extra("0.6.0")
+var qupathVersion by gradle.extra("0.7.0")
 
 dependencyResolutionManagement {
 
